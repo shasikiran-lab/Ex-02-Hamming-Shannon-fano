@@ -62,10 +62,10 @@ print(f"Redundancy is : {red}")
 print(f"Variance is : {var}")
 ```
 ## CALCULATION:
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/da89b4c5-cb19-4c5a-bc6a-5f664529f048" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/52ef77c2-7907-4e52-b61a-dbbdc39c9a1c" />
 
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/197c7031-c6a3-4cbe-8fb8-e65a6e1408e2" />
 
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/a99f406c-0e0d-4f47-ac18-46bcb863fa2a" />
 
 ## OUTPUT:
 
